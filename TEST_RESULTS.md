@@ -65,8 +65,8 @@ Status: ✅ Enabled
 Total Backups: 0
 Total Operations: 0
 Storage Used: 0.00 MB
-Backup Directory: /Users/didi/Downloads/panth/tag_ct_clean/claudeguard/.claudeguard/backups
-Operation Log: /Users/didi/Downloads/panth/tag_ct_clean/claudeguard/.claudeguard/logs/operation_history.jsonl
+Backup Directory: .claudeguard/backups
+Operation Log: .claudeguard/logs/operation_history.jsonl
 ```
 
 ### ✅ Test 5: Package Setup
